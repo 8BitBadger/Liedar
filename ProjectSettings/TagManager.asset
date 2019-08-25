@@ -41,3 +41,18 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Background
+    uniqueID: 1303007671
+    locked: 0
+  - name: Units
+    uniqueID: 988977203
+    locked: 0
+  - name: FX
+    uniqueID: 3303965327
+    locked: 0
+  - name: Clouds
+    uniqueID: 901921839
+    locked: 0
+  - name: 
+    uniqueID: 2622838029
+    locked: 0
