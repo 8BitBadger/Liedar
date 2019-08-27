@@ -13,8 +13,8 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
+  - Enemy
+  - Player
   - 
   - 
   - 
@@ -47,11 +47,11 @@ TagManager:
   - name: Units
     uniqueID: 988977203
     locked: 0
-  - name: FX
-    uniqueID: 3303965327
-    locked: 0
   - name: Clouds
     uniqueID: 901921839
+    locked: 0
+  - name: FX
+    uniqueID: 3303965327
     locked: 0
   - name: 
     uniqueID: 2622838029
